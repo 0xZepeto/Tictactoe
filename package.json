@@ -1,5 +1,5 @@
 {
-  "name": "tictactoe",
+  "name": "@0xzepeto/tictactoe",
   "version": "1.0.0",
   "description": "Classic Tic-Tac-Toe game with tea protocol integration",
   "main": "index.html",
