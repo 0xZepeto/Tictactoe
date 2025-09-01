@@ -21,18 +21,8 @@ This project is registered on tea protocol to:
 - Receive vulnerability reports from security researchers
 - Support sustainable open-source development
 
-The teaRank measures our project's impact in the open-source ecosystem. Higher teaRank means more rewards!
-
-## Contributing
-We welcome contributions! Please:
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Support tea Protocol
 tea protocol is building a sustainable future for open-source software. Learn more at [tea.xyz](https://tea.xyz).
